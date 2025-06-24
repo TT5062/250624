@@ -2,3 +2,4 @@ yfinance
 plotly
 folium
 streamlit-folium
+altair
